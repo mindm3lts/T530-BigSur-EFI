@@ -11,12 +11,22 @@ Follow @mighildotcom for Bios and Installation Guide. https://github.com/mighild
 
 # Please Hackintosh first to Catalina with @mighildotcom guide, It will just makes things easier for you!
 
+
 # Use the MacOS BigSur-Beta4 package installer below to make your USB.
+
 
 # MacOS BigSur-Beta4 Package Installer: 
 http://swcdn.apple.com/content/downloads/46/56/001-34223-A_QIYG1DL7MO/igh8xp5qsam...allAssistant.pkg
 
 After Succesfully installing, folllow guide to make BigSur USB installer with video: https://youtu.be/_0_vDxycdhs
+
+
+# OpenCore Configurator
+https://mackie100projects.altervista.org/download-opencore-configurator/
+
+Mount your USB installers efi partition using the OpenCore Configurator and copy https://github.com/osbaldov/T530-BigSur-EFI.git  efi folder to partition.
+
+
 
 # Remember this is free and Don't pay for anything!
 
