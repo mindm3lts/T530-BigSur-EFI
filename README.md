@@ -11,4 +11,13 @@ Follow @mighildotcom for Bios and Installation Guide. https://github.com/mighild
 
 # Please Hackintosh first to Catalina with @mighildotcom guide, It will just makes things easier for you!
 
-MacOS BigSur-Beta4: http://swcdn.apple.com/content/downloads/46/56/001-34223-A_QIYG1DL7MO/igh8xp5qsam...allAssistant.pkg
+# Use the MacOS BigSur-Beta4 package installer below to make your USB.
+
+# MacOS BigSur-Beta4 Package Installer: 
+http://swcdn.apple.com/content/downloads/46/56/001-34223-A_QIYG1DL7MO/igh8xp5qsam...allAssistant.pkg
+
+After Succesfully installing, folllow guide to make BigSur USB installer with video: https://youtu.be/_0_vDxycdhs
+
+# Remember this is free and Don't pay for anything!
+
+# Work in Progress for Card Reader and External Display, You can help the project as well!
