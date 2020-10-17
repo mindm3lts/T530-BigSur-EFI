@@ -16,7 +16,7 @@ Follow @mighildotcom for Bios and Installation Guide. https://github.com/mighild
 
 
 # MacOS BigSur-Beta4 Package Installer: 
-http://swcdn.apple.com/content/downloads/46/56/001-34223-A_QIYG1DL7MO/igh8xp5qsam...allAssistant.pkg
+http://swcdn.apple.com/content/downloads/03/58/001-59618-A_WT9PNJX065/ccl6ljlm4gwl1lwap6xelwc7acfwtu1zhu/InstallAssistant.pkg
 
 After Succesfully installing, folllow guide to make BigSur USB installer with video: https://youtu.be/_0_vDxycdhs
 
