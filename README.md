@@ -12,7 +12,7 @@ Follow @mighildotcom for Bios and Installation Guide. https://github.com/mighild
 # Please Hackintosh first to Catalina with @mighildotcom guide, It will just makes things easier for you!
 
 
-# Use the MacOS BigSur-Beta4 package installer below to make your USB.
+# Use the MacOS BigSur-Beta10 package installer below to make your USB.
 
 
 # MacOS BigSur-Beta4 Package Installer: 
